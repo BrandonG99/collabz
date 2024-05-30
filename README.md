@@ -1,36 +1,113 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Collabz
 
-## Getting Started
+> Collabz - Where Creativity Meets Collaboration
 
-First, run the development server:
+## TABLE OF CONTENTS
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Description](#description)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Author Info](#author-info)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## DESCRIPTION
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Collabz aims to bring teams closer, even when they are hundreds or even thousands of miles apart!
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+[Back To The Top](#collabz)
 
-## Learn More
+## TECH STACK
 
-To learn more about Next.js, take a look at the following resources:
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS
+- TypeScript
+- Next.js 14
+- Clerk (User Authentication)
+- Liveblocks.io (Collaboration)
+- Convex (Backend Database)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[Back To The Top](#collabz)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## FEATURES
 
-## Deploy on Vercel
+👉 **Toolbar with Pen, Text, Sticky Notes, Shapes, Redo and Undo**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+👉 **Fully Functional Whiteboard with Real-Time Updates**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Collabz is a real-time collaboration whiteboard where you can brainstorm ideas, plan out your upcoming projects and visually bring your ideas and projects to life with your team.
+
+👉 **Coloring System**:
+
+Advanced coloring system that allows users to edit the color of elements they add to the board.
+
+👉 **Real-Time User Collaboration**:
+
+Collabz is like being in an actual meeting room... but better.
+
+Collabz offers real-time collaboration meaning that everyone can see contributions to the whiteboard as they happen, with no delays.
+
+You can move ideas around, add new ones and watch the board update as everyone makes their changes.
+
+Users can add text, draw, layer, color, reposition, expand and shrink elements.
+
+👉 **Layering Functionality - Easily Organise Your Ideas**:
+
+The 'Move to Front' and 'Send to Back' features are super handy when it comes to organising your ideas, especially for more complex projects.
+
+These features allow you to prioritise certain elements in your design by bringing them to the front of your board, they also allow you to move less important elements to the back.
+
+👉 **Search Functionality**:
+
+Users can filter through the boards they have created within an organisation by using the search bar.
+
+For example, if a user types the letter 'T' into the searchbar, all of the boards that contain the letter 'T' in their title at least once will show up. If a user types in a specific board name, only that specific board will show up.
+
+👉 **User Authorisation through Clerk**:
+
+Clerk's Next.js documentation helped me to add secure authentication and user management to Collabz.
+
+👉 **Create New Organisations**
+
+You can add new organisations to Collabz using the + button, if you hover over it a tooltip appears which says 'Create Organisation'.
+
+👉 **Invite Team Members**:
+
+Thanks to Clerk, whiteboard admins can invite users to their boards. Clerk handles sending the invite to the other user, once they receive their invite they can choose whether they want to join or not. The user usually receives their invite within 30 seconds.
+
+👉 **Real-Time Database using Convex**:
+
+Convex is a full cloud backend database designed to replace your server functions and backend functionality.
+
+👉 **Favourite Boards**
+
+Simply hover over a board and click the star icon to favourite it, the board will then show up in under your 'Favourite Boards'. Click the star icon again to remove the board from your favourites.
+
+👉 **Next.js 14 Framework**
+
+Used Next.js for server-side rendering and improved app performance.
+
+👉 **Tailwind CSS & ShadcnUI Styling**
+
+Collabz styling uses Tailwind CSS and ShadcnUI. ShadcnUI is a project that allows you to add pre-built components into your app.
+
+👉 **TypeScript Types**:
+
+Utilised TypeScript to provide robust typing and improve code quality, helping to prevent bugs.
+
+👉 **Add & Delete Boards**
+
+Easily add boards and delete boards within your organisation.
+
+👉 **Edit Your Board Titles**
+
+Rename your boards as many times as you want in real-time.
+
+[Back To The Top](#collabz)
+
+## Author Info
+
+- Portfolio Website - [Brandon Guard](https://www.brandon-guard.com)
+
+[Back To The Top](#collabz)
