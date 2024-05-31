@@ -11,6 +11,8 @@
 
 ## DESCRIPTION
 
+Collabz is a real-time collaboration whiteboard where you can brainstorm ideas, plan out your upcoming projects and visually bring your ideas and projects to life with your team.
+
 Collabz aims to bring teams closer, even when they are hundreds or even thousands of miles apart!
 
 [Back To The Top](#collabz)
@@ -35,8 +37,6 @@ Collabz aims to bring teams closer, even when they are hundreds or even thousand
 👉 **Toolbar with Pen, Text, Sticky Notes, Shapes, Redo and Undo**
 
 👉 **Fully Functional Whiteboard with Real-Time Updates**
-
-Collabz is a real-time collaboration whiteboard where you can brainstorm ideas, plan out your upcoming projects and visually bring your ideas and projects to life with your team.
 
 👉 **Coloring System**:
 
@@ -111,5 +111,3 @@ Rename your boards as many times as you want in real-time.
 - Portfolio Website - [Brandon Guard](https://www.brandon-guard.com)
 
 [Back To The Top](#collabz)
-
-# collabz
