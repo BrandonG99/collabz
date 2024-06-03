@@ -1,6 +1,8 @@
 # Collabz
 
-> Collabz - Real-time Interactive Collaboration Whiteboard
+![Project Image](public/collabz.min.png)
+
+> Collabz - A Real-time Interactive Whiteboard Built for Collaboration
 
 ## Table of Contents:
 
