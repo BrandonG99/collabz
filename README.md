@@ -2,14 +2,14 @@
 
 > Collabz - Real-time Interactive Collaboration Whiteboard
 
-## TABLE OF CONTENTS
+## Table of Contents:
 
 - [Description](#description)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Author Info](#author-info)
 
-## DESCRIPTION
+## Description:
 
 Collabz is a real-time interactive whiteboard built for collaboration, allowing you to brainstorm ideas visually and bring them to life with your team.
 
@@ -17,7 +17,7 @@ Collabz aims to bring teams closer, even when they are hundreds or even thousand
 
 [Back To The Top](#collabz)
 
-## TECH STACK
+## Tech Stack:
 
 - HTML5
 - CSS3
@@ -32,7 +32,7 @@ Collabz aims to bring teams closer, even when they are hundreds or even thousand
 
 [Back To The Top](#collabz)
 
-## FEATURES
+## Features:
 
 👉 **Toolbar with Pen, Text, Sticky Notes, Shapes, Redo and Undo**
 
