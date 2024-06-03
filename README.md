@@ -11,7 +11,7 @@
 
 ## DESCRIPTION
 
-Collabz is a real-time collaboration whiteboard where you can brainstorm ideas, plan out your upcoming projects and visually bring your ideas and projects to life with your team.
+Collabz is a real-time interactive whiteboard built for collaboration, allowing you to brainstorm ideas visually and bring them to life with your team.
 
 Collabz aims to bring teams closer, even when they are hundreds or even thousands of miles apart!
 
