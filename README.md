@@ -1,6 +1,6 @@
 # Collabz
 
-> Collabz - Where Creativity Meets Collaboration
+> Collabz - Real-time Interactive Collaboration Whiteboard
 
 ## TABLE OF CONTENTS
 
