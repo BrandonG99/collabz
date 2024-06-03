@@ -52,7 +52,7 @@ You can move ideas around, add new ones and watch the board update as everyone m
 
 Users can add text, draw, layer, color, reposition, expand and shrink elements.
 
-👉 **Layering Functionality - Easily Organise Your Ideas**:
+👉 **Layering Functionality Allows Users to Easily Organise Their Ideas**:
 
 The 'Move to Front' and 'Send to Back' features are super handy when it comes to organising your ideas, especially for more complex projects.
 
