@@ -56,7 +56,7 @@ Users can add text, draw, layer, color, reposition, expand and shrink elements.
 
 The 'Move to Front' and 'Send to Back' features are super handy when it comes to organising your ideas, especially for more complex projects.
 
-These features allow you to prioritise certain elements in your design by bringing them to the front of your board, they also allow you to move less important elements to the back.
+These features allow you to prioritise certain elements on your whiteboard by bringing them to the front of your board, they also allow you to move less important elements to the back.
 
 👉 **Search Functionality**:
 
