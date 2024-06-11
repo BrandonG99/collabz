@@ -164,7 +164,7 @@ export const unfavorite = mutation({
       .unique();
 
       if (!existingFavorite) {
-        throw new Error("Favorited board not found");
+        throw new Error("Favourited board not found");
       }
 
       await ctx.db.delete(existingFavorite._id);
