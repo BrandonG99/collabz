@@ -83,7 +83,7 @@ export const update = mutation({
       throw new Error("Title is required");
     }
 
-    if(title.length > 60) {
+    if (title.length > 60) {
       throw new Error("Title has to be less than 60 characters")
     }
 
@@ -101,7 +101,7 @@ export const favorite = mutation({
     const identity = await ctx.auth.getUserIdentity();
 
 
-    if(!identity) {
+    if (!identity) {
       throw new Error("Unauthorised")
     }
 
@@ -122,7 +122,7 @@ export const favorite = mutation({
       )
       .unique();
 
-      if(existingFavorite) {
+      if (existingFavorite) {
         throw new Error("Board already favorited");
       }
 
@@ -142,7 +142,7 @@ export const unfavorite = mutation({
     const identity = await ctx.auth.getUserIdentity();
 
 
-    if(!identity) {
+    if (!identity) {
       throw new Error("Unauthorised")
     }
 
@@ -163,7 +163,7 @@ export const unfavorite = mutation({
       )
       .unique();
 
-      if(!existingFavorite) {
+      if (!existingFavorite) {
         throw new Error("Favorited board not found");
       }
 
