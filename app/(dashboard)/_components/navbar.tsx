@@ -40,9 +40,11 @@ export const Navbar = () => {
           }}
         />
       </div>
-      {organization && (
-        <InviteButton />
-      )}
+      <div className="min-[320px]:max-[370px]:hidden">
+        {organization && (
+          <InviteButton />
+        )}
+      </div>
       <UserButton />
     </div>
   )
